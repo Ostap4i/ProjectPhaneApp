@@ -1,0 +1,16 @@
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\bin\Debug\net8.0-windows\ProjectPhoneApp.exe
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\bin\Debug\net8.0-windows\ProjectPhoneApp.deps.json
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\bin\Debug\net8.0-windows\ProjectPhoneApp.runtimeconfig.json
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\bin\Debug\net8.0-windows\ProjectPhoneApp.dll
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\bin\Debug\net8.0-windows\ProjectPhoneApp.pdb
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.Form1.resources
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.csproj.GenerateResource.cache
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.AssemblyInfoInputs.cache
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.AssemblyInfo.cs
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.csproj.CoreCompileInputs.cache
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.dll
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\refint\ProjectPhoneApp.dll
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.pdb
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ProjectPhoneApp.genruntimeconfig.cache
+C:\Users\Andriy\source\repos\ProjectPhoneApp\ProjectPhoneApp\obj\Debug\net8.0-windows\ref\ProjectPhoneApp.dll
